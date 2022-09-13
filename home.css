@@ -1,0 +1,99 @@
+
+body {
+    line-height: 1;
+    font-size: 20px/32px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #d1cfcf;
+    background-image: url(webb-dark.png);
+    color: #353232;
+}
+
+.container {
+    width: 1000px;
+    margin: auto;
+    background-color: #dedaad;
+}
+
+.header {
+    padding: 20px;
+    padding-bottom: 5px;
+}
+
+.header .judul {
+    padding-left: 5px;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.header ul {
+    list-style-type: none;
+    padding: 0px;
+    margin-top: 20px;
+    margin-right: 5px;
+    margin-left: 0px;
+}
+
+.header ul li {
+    display: inline;
+}
+
+.header a {
+    text-decoration: none;
+    color: #414016;
+    padding: 8px;
+}
+
+.header a:hover {
+    background-color: #414016;
+    color: #ffffff;
+}
+
+.hero {
+    height: 200px;
+    background-image: url(https://images.unsplash.com/photo-1453888768187-1e6746aba265?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80);
+    background-size: cover;
+    background-position: 0 -180px;
+    border-top: 5px solid #414016;
+    border-bottom: 5px solid #6e7a31;
+}
+
+.content {
+    padding: 20px;
+}
+
+.content h2 {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.content .penulis {
+    font-size: 12px;
+    margin-top: -5px;
+}
+
+.content a {
+    text-decoration: none;
+    color: #353232;
+}
+
+.content a:hover {
+    background-color: #414016;
+    color: #ffffff;
+}
+
+.content p {
+    text-align: justify;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+.footer {
+    background-color: #6e7a31;
+    padding: 10px;
+}
+
+.footer .copy {
+    color: #d1cfcf;
+    text-align: center;
+    font-size: 11px;
+}

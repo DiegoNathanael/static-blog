@@ -1,0 +1,89 @@
+
+body {
+    line-height: 1;
+    font-size: 20px/32px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #d1cfcf;
+    background-image: url(webb-dark.png);
+    color: #353232;
+}
+
+.container {
+    width: 1000px;
+    margin: auto;
+    background-color: #dedaad;
+}
+
+.header {
+    padding: 20px;
+    padding-bottom: 5px;
+}
+
+.header .judul {
+    padding-left: 5px;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.header ul {
+    list-style-type: none;
+    padding: 0px;
+    margin-top: 20px;
+    margin-right: 5px;
+    margin-left: 0px;
+    padding-bottom: 20px;
+    border-bottom: 5px solid #6e7a31;
+}
+
+.header ul li {
+    display: inline;
+}
+
+.header a {
+    text-decoration: none;
+    color: #414016;
+    padding: 8px;
+}
+
+.header a:hover {
+    background-color: #414016;
+    color: #ffffff;
+}
+
+.contacts {
+    padding: 20px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-size: 30px;
+}
+
+.content {
+    padding: 20px;
+}
+
+.content p {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+
+.content a {
+    text-decoration: none;
+    color: #353232;
+}
+
+.content a:hover {
+    background-color: #414016;
+    color: #ffffff;
+}
+
+.footer {
+    background-color: #6e7a31;
+    padding: 10px;
+}
+
+.footer .copy {
+    color: #d1cfcf;
+    text-align: center;
+    font-size: 11px;
+}
