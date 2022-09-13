@@ -53,12 +53,15 @@ body {
 .contacts {
     padding: 20px;
     padding-top: 0px;
-    padding-bottom: 0px;
+    padding-bottom: 10px;
+    border: 0px;
+    margin-bottom: 0px;
     font-size: 30px;
 }
 
 .content {
     padding: 20px;
+    padding-top: 0px;
 }
 
 .content p {
