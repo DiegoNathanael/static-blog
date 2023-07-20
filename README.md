@@ -1,1 +1,3 @@
-# Simple Static Blog Website
+# Static Blog Website
+
+Front-end development beginner project.
