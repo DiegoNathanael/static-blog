@@ -1,3 +1,3 @@
-# Static Blog Website
+# Blog Website
 
-Front-end development beginner project.
+My first CSS project.
